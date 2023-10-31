@@ -39,9 +39,7 @@ Check out the `examples` directory in this repository for some sample slope fiel
 
 Contributions to this repository are welcome. If you have additional resources, examples, or improvements, feel free to open a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
